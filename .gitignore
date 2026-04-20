@@ -1,0 +1,5 @@
+# Temporary files
+~*.lck
+*#
+*.zip
+fp*cache
