@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "6172889b-ed4d-4d9a-abd1-074107e97601")
+	(uuid "4f04097c-1c82-4eb7-b5e1-786b2f07bfb0")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:L"
@@ -663,208 +663,130 @@
 		)
 	)
 	(junction
-		(at 139.7 95.25)
+		(at 161.29 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "33aca503-25e1-4ab6-8ce8-8a40371210c8")
+		(uuid "1669d5cd-0e80-4372-901d-9e8428123f30")
 	)
 	(junction
-		(at 139.7 114.3)
+		(at 161.29 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e107e11b-e745-44d3-9c5c-aef7cf3fecf9")
+		(uuid "40107c9c-9927-4979-a417-15caa2d3c45e")
 	)
 	(wire
 		(pts
-			(xy 139.7 95.25) (xy 139.7 101.6)
+			(xy 161.29 93.98) (xy 170.18 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ec5889e-35e5-446a-8ca1-4ff4a57d56fa")
+		(uuid "0e7a1850-e086-4e09-85cf-d32f81b24f03")
 	)
 	(wire
 		(pts
-			(xy 127 100.33) (xy 127 114.3)
+			(xy 161.29 113.03) (xy 161.29 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3c9c4bfd-97c6-4234-883c-f844b5b04d69")
+		(uuid "20160b28-dec6-4015-beff-de9c64923370")
 	)
 	(wire
 		(pts
-			(xy 139.7 95.25) (xy 148.59 95.25)
+			(xy 161.29 87.63) (xy 161.29 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3da06724-6714-427b-8758-fff6602f4686")
+		(uuid "2b5dbae8-55db-493c-94a2-d7d72135e95b")
 	)
 	(wire
 		(pts
-			(xy 139.7 109.22) (xy 139.7 114.3)
+			(xy 148.59 88.9) (xy 148.59 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4220fc0b-0c03-46fa-9475-7d3eb725a450")
+		(uuid "3639d095-c6f5-4ea0-a9b6-682427abcf1d")
 	)
 	(wire
 		(pts
-			(xy 139.7 76.2) (xy 127 76.2)
+			(xy 161.29 93.98) (xy 161.29 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7497e9fc-f571-408f-916e-e14fb5fcfc8c")
+		(uuid "500eba61-0f43-4478-8033-d49fb37c957b")
 	)
 	(wire
 		(pts
-			(xy 127 76.2) (xy 127 90.17)
+			(xy 148.59 99.06) (xy 148.59 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7f1bd757-14b0-4c86-9c1e-a1180328c058")
+		(uuid "59a9484b-f26c-41d8-b4b1-9541368bd4cf")
 	)
 	(wire
 		(pts
-			(xy 139.7 81.28) (xy 139.7 76.2)
+			(xy 148.59 74.93) (xy 161.29 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "87945b2d-3973-46f0-adf7-e28fb2288e01")
+		(uuid "888a77c9-5823-4ae9-a605-9a8e3e68d532")
 	)
 	(wire
 		(pts
-			(xy 139.7 114.3) (xy 139.7 119.38)
+			(xy 161.29 113.03) (xy 148.59 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "87ef0ac6-fd6d-4e7f-b9b8-6aa25cd182f0")
+		(uuid "b9aeb62b-6c72-496c-a65f-35a5c742fc96")
 	)
 	(wire
 		(pts
-			(xy 139.7 114.3) (xy 127 114.3)
+			(xy 161.29 107.95) (xy 161.29 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ce0098ee-032e-485d-ab33-06d8219077a9")
+		(uuid "d0ffcf3a-c8db-400a-8f91-83f29669449e")
 	)
 	(wire
 		(pts
-			(xy 139.7 88.9) (xy 139.7 95.25)
+			(xy 161.29 80.01) (xy 161.29 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f95bf502-afb5-4f24-a1f3-ced1f79361e2")
+		(uuid "fbe25910-d2be-4bdb-85ee-9961e85e8adf")
 	)
 	(label "Out"
-		(at 148.59 95.25 0)
+		(at 170.18 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "8194ee06-f5fc-4653-be5f-72a6e5ae227c")
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 139.7 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d2f3fe7-8af6-4694-9da1-f2a56930d979")
-		(property "Reference" "#PWR01"
-			(at 139.7 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 139.7 124.46 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 139.7 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 139.7 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cdce2dc5-ea1c-4e1e-9de4-590f948b54e2")
-		)
-		(instances
-			(project "S2C19ST6"
-				(path "/6172889b-ed4d-4d9a-abd1-074107e97601"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "b75e36ef-84f1-46b3-9b9f-321c6ee4d546")
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 139.7 85.09 0)
+		(at 161.29 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -873,9 +795,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "459634fb-949d-4b5c-918a-0d6dc597cc8b")
+		(uuid "2f92cc44-dfd5-45b3-a36d-a45e2a93fc7c")
 		(property "Reference" "R1"
-			(at 142.24 83.8199 0)
+			(at 163.83 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -885,8 +807,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 142.24 86.3599 0)
+		(property "Value" "100"
+			(at 163.83 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -897,7 +819,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.922 85.09 90)
+			(at 159.512 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -908,7 +830,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 85.09 0)
+			(at 161.29 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -919,7 +841,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 139.7 85.09 0)
+			(at 161.29 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -930,14 +852,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "df50f2aa-f2c2-4922-9f59-2ae943deccea")
+			(uuid "ec0da41f-348f-40f3-b8e7-5e4991cfae5a")
 		)
 		(pin "1"
-			(uuid "7599f2ed-47dd-4423-bce1-d96c71968654")
+			(uuid "4b839865-9991-4653-8d0f-aeced8f28ad1")
 		)
 		(instances
-			(project "S2C19ST6"
-				(path "/6172889b-ed4d-4d9a-abd1-074107e97601"
+			(project "S2C19ST7A"
+				(path "/4f04097c-1c82-4eb7-b5e1-786b2f07bfb0"
 					(reference "R1")
 					(unit 1)
 				)
@@ -945,8 +867,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Simulation_SPICE:VDC")
-		(at 127 95.25 0)
+		(lib_id "power:GND")
+		(at 161.29 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -955,147 +877,30 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "590b3e85-53c6-4588-912f-2d87d0f690fe")
-		(property "Reference" "V1"
-			(at 130.81 93.8501 0)
+		(uuid "4b2e6d2d-acfb-4062-91e1-f39419b550cc")
+		(property "Reference" "#PWR01"
+			(at 161.29 124.46 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "25"
-			(at 130.81 96.3901 0)
+		(property "Value" "GND"
+			(at 161.29 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 127 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for"
-			(at 127 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Voltage source, DC"
-			(at 127 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=+ 2=-"
-			(at 127 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" "DC"
-			(at 127 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "V"
-			(at 127 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "2"
-			(uuid "b7ff4cac-a26a-4b9a-b4cb-330e4cdc758b")
-		)
-		(pin "1"
-			(uuid "0066e87a-e2a8-49e4-a4b8-7cebb40e0d83")
-		)
-		(instances
-			(project "S2C19ST6"
-				(path "/6172889b-ed4d-4d9a-abd1-074107e97601"
-					(reference "V1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 139.7 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c2c80cdf-f574-41f7-bb0c-b737709de7a4")
-		(property "Reference" "L1"
-			(at 140.97 104.1399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "500m"
-			(at 140.97 106.6799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 139.7 105.41 0)
+			(at 161.29 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1106,7 +911,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 105.41 0)
+			(at 161.29 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1116,8 +921,8 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
-			(at 139.7 105.41 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 161.29 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1128,15 +933,219 @@
 			)
 		)
 		(pin "1"
-			(uuid "547785cf-d141-49a8-b0c2-d21216449d3d")
-		)
-		(pin "2"
-			(uuid "adbdb6c6-552e-4c38-b987-b2ca9c99a05b")
+			(uuid "7e5f89c5-3e81-4678-ae3b-e79fd1fa9045")
 		)
 		(instances
-			(project "S2C19ST6"
-				(path "/6172889b-ed4d-4d9a-abd1-074107e97601"
+			(project "S2C19ST7A"
+				(path "/4f04097c-1c82-4eb7-b5e1-786b2f07bfb0"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
+		(at 161.29 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "94bb53e6-4f34-4a72-8aff-088ec6eae24e")
+		(property "Reference" "L1"
+			(at 162.56 102.8699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1"
+			(at 162.56 105.4099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 161.29 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c4cd1d2a-9941-4739-9fed-64d96f40f858")
+		)
+		(pin "2"
+			(uuid "2ed7aa28-2809-4c8b-8fea-c6b4a2b1ce12")
+		)
+		(instances
+			(project "S2C19ST7A"
+				(path "/4f04097c-1c82-4eb7-b5e1-786b2f07bfb0"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:VDC")
+		(at 148.59 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fc781112-d719-47ee-81f0-2d53e6265a88")
+		(property "Reference" "V1"
+			(at 152.4 92.5801 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "${SIM.PARAMS}"
+			(at 92.964 96.012 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Voltage source, DC"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "PULSE"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "V"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Sim.Params" "y1=0 y2=100 td=0 tr=1n tf=1n tw=50m per=10"
+			(at 117.348 91.694 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2978fd96-4aa3-4d8c-94e4-655759941b95")
+		)
+		(pin "1"
+			(uuid "0ebeef4d-6fe6-4c5c-a85c-097b9f9e4446")
+		)
+		(instances
+			(project "S2C19ST7A"
+				(path "/4f04097c-1c82-4eb7-b5e1-786b2f07bfb0"
+					(reference "V1")
 					(unit 1)
 				)
 			)
